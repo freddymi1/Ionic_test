@@ -1,0 +1,7 @@
+{
+  "name": "landing_page",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "react"
+}
